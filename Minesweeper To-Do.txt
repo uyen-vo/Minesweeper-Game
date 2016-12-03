@@ -1,0 +1,19 @@
+//Cascade on edges and corners
+//Counter incrementation
+//	Better type of counter? Ask around?
+//Debug mode
+//Options/levels
+//Winning condition: all non-mined are uncovered
+//Custom
+//maybe later:
+//	cascade mini fix
+//		top edge needs help
+//Both clicks
+//Credits page
+//Timer
+//Redrawing?
+//	Restarting the game when clicked button
+//	Menu?
+
+resetting timer for a new game when inprogress is pressed
+cascade/win with flags
